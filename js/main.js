@@ -31,6 +31,13 @@
 //     myResult.innerHTML = sumPolygon(myInp.value);
 // }
 
+// ? Task #3
+// ? Case Insensitive Comparison
+
+// function match(s1, s2) {
+// 	let regex = /[a-z]/gi;
+// 	return s1.match(regex) == s2.match(regex)
+// }
 
 // ? Task #4
 // ? Concatenating First and Last Character of a String
@@ -83,6 +90,13 @@
 //     let myResult = document.querySelector(".result");
 
 //     myResult.innerHTML = parseArray(myInp.value.trim().split(" "));
+// }
+
+// ? Task #7
+// ? Largest Numbers
+
+// function largestNumbers(n, arr) {
+//     return arr.sort().slice(-n);
 // }
 
 // ? Task #8
